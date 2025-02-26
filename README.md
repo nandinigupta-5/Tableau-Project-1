@@ -98,3 +98,6 @@ This document provides an analysis of the performance of ACME INC.'s Computerize
 - **Internal Facilities is the biggest cost driver** and should be optimized.
 - **Vendor performance varies significantly, requiring a realignment of work allocation.**
 - **Urgency & Safety-related issues need improved escalation protocols.**
+
+## Link:
+https://public.tableau.com/app/profile/nandinigupta/viz/ACMEINC_PERFORMANCEDATAANALYSIS/ACMEINC_ANALYSISSUMMARY
